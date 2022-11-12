@@ -15,7 +15,7 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "elenaspb2019", // Usually your GitHub org/user name.
   projectName: "api-test", // Usually your repo name.
-  deploymentBranch: "gh-pages"
+  deploymentBranch: "gh-pages",
   
 
   presets: [
